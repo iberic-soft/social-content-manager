@@ -1,0 +1,2 @@
+// Spring Roo 1.2.4.RELEASE [rev 75337cf] log opened at 2013-07-12 19:32:58
+project --topLevelPackage org.ibericsoft.scm.persistence --projectName scm-persistence --java 7 --packaging JAR
