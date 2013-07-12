@@ -2,3 +2,4 @@
 project --topLevelPackage org.ibericsoft.scm.persistence --projectName scm-persistence --java 7 --packaging JAR
 // Spring Roo 1.2.4.RELEASE [rev 75337cf] log closed at 2013-07-12 19:33:11
 // Spring Roo 1.2.4.RELEASE [rev 75337cf] log opened at 2013-07-12 19:33:15
+// Spring Roo 1.2.4.RELEASE [rev 75337cf] log closed at 2013-07-12 19:45:01
