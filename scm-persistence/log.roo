@@ -4,3 +4,11 @@ project --topLevelPackage org.ibericsoft.scm.persistence --projectName scm-persi
 // Spring Roo 1.2.4.RELEASE [rev 75337cf] log opened at 2013-07-12 20:24:17
 exit
 // Spring Roo 1.2.4.RELEASE [rev 75337cf] log closed at 2013-07-12 20:24:51
+// Spring Roo 1.2.4.RELEASE [rev 75337cf] log opened at 2013-07-13 10:14:15
+jpa setup --database MYSQL --provider HIBERNATE 
+entity jpa --class org.ibericsoft.scm.persistence.domain.Content
+field string --fieldName content
+entity jpa --class org.ibericsoft.scm.persistence.domain.Usuario
+field string --fieldName email
+field string --fieldName password
+test mock
