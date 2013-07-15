@@ -12,3 +12,4 @@ entity jpa --class org.ibericsoft.scm.persistence.domain.Usuario
 field string --fieldName email
 field string --fieldName password
 test mock
+// Spring Roo 1.2.4.RELEASE [rev 75337cf] log closed at 2013-07-14 14:46:37
